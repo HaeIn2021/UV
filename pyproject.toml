@@ -1,0 +1,10 @@
+[project]
+name = "ai-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "gradio>=4.44.1",
+    "pandas>=2.2.3",
+]
